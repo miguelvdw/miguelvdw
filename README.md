@@ -29,15 +29,6 @@ In addition to my studies, I gained experience as a Teaching Assistant, guiding 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelvdw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Miguel's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvdw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### 📫 Get in Touch
 
 - 💼 **LinkedIn:** [linkedin.com/in/miguelvanderwekken](https://www.linkedin.com/in/miguelvanderwekken/)
