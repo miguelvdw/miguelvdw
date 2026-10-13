@@ -27,7 +27,9 @@ I finished my bachelor's with a thesis on
 a C++ solver using recursion with memoization and bounds, closed formulas for the
 group value, and a random forest that predicts puzzle difficulty from features
 computable before solving. I also spent a semester as a teaching assistant for
-the first-year C++ programming course at Leiden.
+the first-year C++ programming course at Leiden. In 2026 my team qualified for
+the Benelux Algorithm Programming Contest (BAPC) through the Utrecht Programming
+Championship.
 
 Alongside my studies I work as a backend developer at Consolix, where we help
 companies cut down manual work by automating their processes through custom web
@@ -37,12 +39,27 @@ where my studies and my work meet.
 
 ---
 
+### 🛠 Tech
+
+- **Languages:** Python, C++, SQL
+- **Machine learning / data:** PyTorch, torchvision, scikit-learn, NumPy, Pandas, SciPy, Matplotlib, Seaborn, NLTK, OpenCV
+- **Backend:** FastAPI, Flask, SQLAlchemy, Alembic, pytest
+- **Databases:** PostgreSQL, Redis
+- **DevOps & infrastructure:** Docker, GitHub Actions, Nginx, Bash, Cloudflare R2, Backblaze B2
+
+---
+
 ### 📌 Featured
 
 **[Algorithms for Rummikub Puzzles](https://github.com/miguelvdw/rummikub-puzzles)**
 — Bachelor's thesis (LIACS, Leiden University, 2025). C++ solver, Python puzzle
 generator, and a random forest difficulty classifier reaching 82% accuracy on
 400,000 puzzles. [Thesis PDF](https://theses.liacs.nl/pdf/2024-2025-WekkenMvanderMiguel.pdf)
+
+**[Internship platform startjouwtoeqomst.nl](https://startjouwtoeqomst.nl)**
+— Built at Consolix. Responsible for the backend and database schema (FastAPI,
+PostgreSQL). Scaled to 5,000 concurrent users in load tests, using PostgreSQL
+replication with automatic failover, PgBouncer, indexes and Redis caching.
 
 ---
 
